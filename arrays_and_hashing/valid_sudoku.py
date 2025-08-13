@@ -36,3 +36,5 @@ board = [
 sol = Solution()
 answer = sol.isValidSudoku(board)
 print(answer)
+
+
